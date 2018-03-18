@@ -1,7 +1,5 @@
 <template>
-  <header class="totleNav">
-        
-  </header>
+  <header class="totleNav"></header>
 </template>
 
 <script>
